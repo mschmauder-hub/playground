@@ -6,10 +6,7 @@
 body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
-}
-
-.toggle {
-  border: 1px solid #fff;
-  background-color: var(--main-bg-color);
-  color: var(--main-text-color);
+  background-image: url(../src/assets/pelican.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
