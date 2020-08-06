@@ -1,5 +1,6 @@
 import { createToggleButton } from "./components/toggleButton.js";
 import { createTitle } from "./components/title.js";
+import "./global.css";
 
 const toggleButton = createToggleButton();
 const title = createTitle();

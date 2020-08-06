@@ -1,4 +1,5 @@
 import { createElement } from "../utils/element.js";
+import "./toggleButton.css";
 
 export function createToggleButton() {
   const toggleButton = createElement("button", {
